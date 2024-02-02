@@ -5,7 +5,7 @@ Thank you for considering contributing to OpenSciLab as part of the Google Summe
 ## Ready to Start !?
 
 ### Project Selection
-Review [the list of project ideas](https://github.com/openscilab/GSoC2024/blob/main/IDEAS.md) provided by OpenSciLab. Consider your skills, interests, and the project's goals to find a good match.
+Review the list of [project ideas](https://github.com/openscilab/GSoC2024/blob/main/IDEAS.md) provided by OpenSciLab. Consider your skills, interests, and the project's goals to find a good match.
 
 ### Contact Mentors
 Reach out to the mentors associated with the project you are interested in. Discuss the project, clarify doubts, and seek guidance to understand the expectations.
