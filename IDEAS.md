@@ -1,6 +1,6 @@
 # OpenSciLab Project Ideas for Google Summer of Code
 Here are ideas for improving OpenSciLab projects.
-For each project, there are multiple ideas with a title and a short description fetched from our backlog. Each of these ideas could have some tasks. Based on our evaluation, for each contributor it will take 3.5 month (nearly what GSoC is also planned to) to handle an idea. 
+For each project, there are multiple ideas with a title and a short description fetched from our backlog. Each of these ideas could have some tasks. Based on our evaluation, for each contributor it will take 3.5 month (nearly what GSoC is also planned to) to fulfill an idea's objectives. 
 
 ## [PyCM: Multi-class confusion matrix library in Python](https://github.com/sepandhaghighi/pycm)
 <div align="center">
@@ -11,10 +11,12 @@ For each project, there are multiple ideas with a title and a short description 
 * [Sadra Sabouri](https://sadrasabouri.github.io/)
 * [Arash Zolanvari](https://alirezazolanvari.github.io/)
 
-PyCM is a multi-class confusion matrix library written in Python that supports both input data vectors and direct matrix, and a proper tool for post-classification model evaluation that supports most classes and overall statistics parameters. The project has been developed for six years and matured enough. Now there is time to add new features enlarging the library scope. 
+PyCM is a multi-class confusion matrix library written in Python that supports both input data vectors and direct matrix, and a proper tool for post-classification model evaluation that supports most classes and overall statistics parameters. The project has been developed for six years and matured enough. Now there is time to add new features enlarging the library scope.
 
-### Dissimilarity Matrix
-A dissimilarity matrix quantifies the dissimilarity between pairs of objects in a dataset. Refer to [here](https://www.statistics.com/glossary/dissimilarity-matrix/) for more information. The idea is to add support of dissimilarity matrix and provide a pipeline, such as what we have now for `ConfusionMatrix`, extracting different metrics.
+### Dissimilarity/Distance Matrix and Incidence Matrix
+In classification setting, a dissimilarity matrix quantifies the dissimilarity between pairs of classes. The idea is to add support for dissimilarity matrix and provide a pipeline, such as what we have now for `ConfusionMatrix`, extracting various related metrics.
+
+Incidence matrix is a logical matrix showing relationship between classes of objects. In classification setting, it can be useful in cases which two classes are too similar so that makes it hard for classifier to classify it. Adding support for this matrix and its metrics could ease the path for researchers to continue their studies on it.
 
 * If you are interested into software development scaling challenges and also like research metrics in machine learning, this idea could be your best shot.
 
