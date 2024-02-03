@@ -37,7 +37,7 @@ Join the official communication discord channel. There we have sub-channels for 
 Stay active in these channels and communicate with mentors and other contributors.
 
 <div align="center">
-    <a href="https://discord.com/27J5SmWmdf">
+    <a href="https://discord.com/invite/27J5SmWmdf">
         <img src="https://img.shields.io/discord/1064533716615049236.svg?style=for-the-badge" alt="Discord Channel">
     </a>
 </div>
