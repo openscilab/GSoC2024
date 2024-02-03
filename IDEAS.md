@@ -64,4 +64,11 @@ In computer science and network analysis, random graphs are frequently employed 
 
 * If you are looking for a hands-on research experience on random graph generation, this idea is yours.
 
-### Make PyRGG More Accessible for Researchers (Documentation)
+### Make PyRGG More Accessible for Researchers
+PyRGG is a command-line-interface (CLI) application. Although we tried to make user interface as simple as possible, there is a long way to go. Use-cases could range from Python package APIs to graphical interfaces, that means we should have both form out python package level abstraction and button-textbox view for random graph generation. Plus that, integration to existing graph analysis Python libraries needed to be show-cased as a blog-post or in documentation. These examples usually works as boilerplate for researchers when using Python libraries.
+
+1. Showcase integration with existing graph libraries (such as `networkx`)
+2. Generalize package's functions making them able to serve as a Python library API
+3. Development of a simple graphical user interface
+
+* If you are looking for documenting, blogging and user experience design, you should write a proposal on this idea.
