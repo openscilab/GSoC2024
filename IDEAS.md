@@ -1,12 +1,13 @@
 # OpenSciLab Project Ideas for Google Summer of Code
 Here are ideas for improving OpenSciLab projects.
+For each project, there are multiple ideas with a title and a short description fetched from our backlog. Each of these ideas could have some tasks. Based on our evaluation, for each contributor it will take 3.5 month (nearly what GSoC is also planned to) to handle an idea. 
 
 ## [PyCM: Multi-class confusion matrix library in Python](https://github.com/sepandhaghighi/pycm)
 <div align="center">
     <img src="https://github.com/sepandhaghighi/pycm/raw/master/Otherfiles/logo.png" width="400">
 </div>
 
-PyCM is a multi-class confusion matrix library written in Python that supports both input data vectors and direct matrix, and a proper tool for post-classification model evaluation that supports most classes and overall statistics parameters. The project has been developed for six years and matured enough. Now there is time to add new features enlarging the library scope. Below are multiple ideas regarding this project with a title and a short description fetched from our backlog. Each of these ideas could have some tasks. Based on our evaluation, for each contributor it will take 3.5 month (nearly what GSoC is also planned to) to take care of each idea. 
+PyCM is a multi-class confusion matrix library written in Python that supports both input data vectors and direct matrix, and a proper tool for post-classification model evaluation that supports most classes and overall statistics parameters. The project has been developed for six years and matured enough. Now there is time to add new features enlarging the library scope. 
 
 ### Dissimilarity Matrix
 A dissimilarity matrix quantifies the dissimilarity between pairs of objects in a dataset. Refer to [here](https://www.statistics.com/glossary/dissimilarity-matrix/) for more information. The idea is to add support of dissimilarity matrix and provide a pipeline, such as what we have now for `ConfusionMatrix`, extracting different metrics.
@@ -39,3 +40,17 @@ As time goes on, there where situation in which users wanted to import their dat
 <div align="center">
     <img src="https://github.com/sepandhaghighi/pyrgg/raw/master/otherfile/logo.png" width="400">
 </div>
+PyRGG is a command-line-interface (CLI) tool for generating random graphs. This tool supports various graph format including `DIMACS(.gr)` files. PyRGG is being used in broad range of graph-based research applications.
+
+### Add New Graph Generation Model
+There are several random graph generation model. Currently PyRGG only supports two model (which are `pyrgg` and `Erdős–Rényi-Gilbert model - G(n,p)` method). The idea is to implemented existing methods for random graph generation, a non exhaustive list of those methods are in below:
+
+1. Erdős–Rényi model - G(n,M)
+2. Barabási–Albert model
+3. Watts–Strogatz model
+4. Exponential family random graph models
+5. Stochastic block model
+
+* If you are looking for a hands-on research experience on random graph generation, this idea is yours.
+
+### Make PyRGG More Accessible for Researchers (Documentation)
