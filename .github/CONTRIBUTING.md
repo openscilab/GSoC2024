@@ -41,7 +41,7 @@ We encourage you to stay active in these channels and communicate with mentors a
     </a>
 </div>
 
-Provide regular updates on your progress. Reach out for assistance if facing challenges. Be open to receiving feedback on your work. Collaborate with other contributors and engage in discussions.
+Provide regular updates on your progress. Reach out for assistance if facing challenges. Be open to receiving feedback on your work. Collaborate with other contributors and engage ins discussions.
 
 ## Final Submission
 
