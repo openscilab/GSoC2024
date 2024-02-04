@@ -41,8 +41,6 @@ There is a class of classification problems that outputs a probability distribut
 
 * If you wanted to have a hands-on research experience on machine learning evaluation metrics, let's write a proposal for this idea. We would love to hear more about your ideas.
 
-### Data Distribution Analysis
-
 ### Incorporate Time Series Analysis in PyCM for Dynamic Model Assessment
 
 ### Real-time Model Monitoring with PyCM
