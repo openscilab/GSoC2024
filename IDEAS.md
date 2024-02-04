@@ -41,10 +41,11 @@ There is a class of classification problems that outputs a probability distribut
 
 * If you wanted to have a hands-on research experience on machine learning evaluation metrics, let's write a proposal for this idea. We would love to hear more about your ideas.
 
-### Time Series Analysis and Real-time Model Monitoring for Dynamic Model Assessment
-Time Series Analysis will equip PyCM users with tools to analyze temporal patterns in model performance, allowing for the evaluation of predictive models over time. This feature will facilitate the identification of trends, seasonality, and other time-dependent characteristics in classification metrics, offering a comprehensive understanding of model behavior in dynamic scenarios. Additionally, the introduction of Real-time Model Monitoring will enable users to track and assess model performance in real-time, providing continuous insights into the model's behavior as it encounters new data. By implementing these features, PyCM will evolve into a more sophisticated and adaptive tool, catering to the evolving needs of data scientists and researchers working with dynamic datasets and time-dependent model evaluations.
+### Comparing Classification Models
 
-* If you are looking for challenging hands-on research on time series and online model evaluation and building Continues Integration (CI) tools, this idea is for you.
+### Benchmark Tests
+
+### Data Distribution Analysis
 
 ### PyCM Optimization: Boosting Performance & Speed and Software Structure Enhancement
 Every open-source software project which has been evolved through the time eventually find some sub-optimality in its implementation. Technical debts and poor implementation could open opportunities for software engineers to enhance project's performance and software architecture. The idea here is to start by identifying potential bottlenecks in the codebase and write down your proposal on your solution for them.
