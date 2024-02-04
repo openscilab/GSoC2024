@@ -13,7 +13,7 @@ Reach out to the mentors associated with the project you are interested in. Disc
 ### Proposal Draft
 In project ideas document, we provide you with a title and short description of potential proposals. You can either elaborate on one of them to make your proposals or make your own proposal from scratch after assessing your desired project. Prepare a draft proposal outlining your understanding of the project, proposed approach, timeline, and expected outcomes. Share the draft with mentors for feedback before submitting the final proposal.
 
-### Apply
+### How to Apply
 Please provide a CV including at least following information about yourself:
 * Name
 * University/Institution
