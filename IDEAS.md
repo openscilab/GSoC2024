@@ -28,7 +28,7 @@ As time goes on, there where situation in which users wanted to import their dat
 3. Support `LateX` format as output
 4. HTM format output enhancement
 
-* If you are interested in system/pipeline design and ready to dig into parsing these formatted structure, let's pick p this idea.
+* If you are interested in system/pipeline design and ready to dig into parsing these formatted structure, let's pick up this idea.
 
 ### Curve Generalization and Threshold Selection
 
