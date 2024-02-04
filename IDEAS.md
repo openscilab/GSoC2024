@@ -43,8 +43,6 @@ There is a class of classification problems that outputs a probability distribut
 
 ### Data Distribution Analysis
 
-### PyCM Optimization: Boosting Performance & Speed and Software Structure Enhancement
-
 ### Incorporate Time Series Analysis in PyCM for Dynamic Model Assessment
 
 ### Real-time Model Monitoring with PyCM
