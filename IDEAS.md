@@ -52,7 +52,7 @@ Every open-source software project which has been evolved through the time event
 
 * If you are a software developer who wanted to challenge yourself by diving into source code and looking for flaws, let's do this.
 
-### Make PyCM More Accessible to Data Scientists (Documentation)
+### Make PyCM More Accessible to Data Scientists
 PyCM has been used vastly by researchers since the start of the project, but it has not been used by data scientists that much. Although scikit-learn library has a naive implementation for confusion matrix with minimum number of metrics, apparently data scientists are just relying on that and don't go further to use more advanced tools, like PyCM. In this idea we first wanted to identify why is that happening. Then we wanted remove barriers for data scientists to use PyCM easily in their projects. Following tasks may be needed for fulfilling this idea.
 
 1. Conduct a survey/interview among data scientists to find out about barriers
