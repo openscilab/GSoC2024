@@ -51,10 +51,10 @@ As time goes on, there where situation in which users wanted to import their dat
 * [Sadra Sabouri](https://sadrasabouri.github.io/)
 * [Arash Zolanvari](https://alirezazolanvari.github.io/)
 
-PyRGG is a command-line-interface (CLI) tool for generating random graphs. This tool supports various graph format including `DIMACS(.gr)` files. PyRGG is being used in broad range of graph-based research applications.
+In computer science and network analysis, random graphs are frequently employed to simulate and study the structure of networks, such as social networks, communication networks, and the internet. These generated graphs serve as benchmarks for evaluating algorithms, assessing network resilience, and studying the properties of large-scale networks. Additionally, in bio-informatics, random graphs are utilized to model biological interactions, enabling the analysis of complex biological networks. PyRGG is a command-line-interface (CLI) tool for generating random graphs. This tool supports various graph format including `DIMACS(.gr)` files. PyRGG is being used in broad range of graph-based research applications.
 
 ### Add New Graph Generation Model
-In computer science and network analysis, random graphs are frequently employed to simulate and study the structure of networks, such as social networks, communication networks, and the internet. These generated graphs serve as benchmarks for evaluating algorithms, assessing network resilience, and studying the properties of large-scale networks. Additionally, in bio-informatics, random graphs are utilized to model biological interactions, enabling the analysis of complex biological networks. PyRGG is a tool for generating random graph via Python. There are several random graph generation models. Currently PyRGG supports two models (which are `pyrgg` and `Erdős–Rényi-Gilbert model - G(n,p)` method). The idea is to implement all existing methods for random graph generation, a non exhaustive list of those methods are in below:
+There are several random graph generation models. Currently PyRGG supports two models (which are `pyrgg` and `Erdős–Rényi-Gilbert model - G(n,p)` method). The idea is to implement all existing methods for random graph generation, a non exhaustive list of those methods are in below:
 
 1. Erdős–Rényi model - G(n,M)
 2. Barabási–Albert model
