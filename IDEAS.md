@@ -36,11 +36,25 @@ As time goes on, there where situation in which users wanted to import their dat
 
 ### PyCM Optimization: Boosting Performance & Speed and Software Structure Enhancement
 
-### Make PyCM More Accessible to Data Scientists (Documentation)
-
 ### Incorporate Time Series Analysis in PyCM for Dynamic Model Assessment
 
 ### Real-time Model Monitoring with PyCM
+
+### PyCM Optimization: Boosting Performance & Speed and Software Structure Enhancement
+Every open-source software project which has been evolved through the time eventually find some sub-optimality in its implementation. Technical debts and poor implementation could open opportunities for software engineers to enhance project's performance and software architecture. The idea here is to start by identifying potential bottlenecks in the codebase and write down your proposal on your solution for them.
+
+* If you are a software developer who wanted to challenge yourself by diving into source code and looking for flaws, let's do this.
+
+### Make PyCM More Accessible to Data Scientists (Documentation)
+PyCM has been used vastly by researchers since the start of the project, but it has not been used by data scientists that much. Although scikit-learn library has a naive implementation for confusion matrix with minimum number of metrics, apparently data scientists are just relying on that and don't go further to use more advanced tools, like PyCM. In this idea we first wanted to identify why is that happening. Then we wanted remove barriers for data scientists to use PyCM easily in their projects. Following tasks may be needed for fulfilling this idea.
+
+1. Conduct a survey/interview among data scientists to find out about barriers
+2. Coming up with solutions
+3. Blogging show-cases in which using PyCM is helping with a better understanding of a classification problem
+4. Design a website for online PyCM use-cases
+
+* If you are interested in human-subject research and user experience design, this is for you.
+
 
 ## [PyRGG: 🔧 Python Random Graph Generator](https://github.com/sepandhaghighi/pyrgg)
 <div align="center">
