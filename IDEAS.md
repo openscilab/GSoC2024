@@ -47,6 +47,9 @@ Finding the best threshold for a classification problem usually deals with a tra
 * If you wanted to have a hands-on research experience on machine learning and learn more about different threshold suggestion methods, let's try this idea.
 
 ### Comparing Classification Models
+PyCM introduced a method to compare several confusion matrices. You can compare results of two classification method by comparing confusion matrices of them sharing a ground truth vector. Earlier implementation of `Compare` object in Version `2.0` hasn't been updated since then. Here we wanted to enhance the implementation of that object and add new methods for comparing confusion matrices.
+
+* If you are interested in pure confusion matrix research and also software architecture enhancement, start from here.
 
 ### Benchmark Tests
 
