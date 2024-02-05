@@ -30,16 +30,21 @@ As time goes on, there where situation in which users wanted to import their dat
 
 * If you are interested in system/pipeline design and ready to dig into parsing these formatted structure, let's pick up this idea.
 
-### Curve Generalization and Threshold Selection
-There is a class of classification problems that outputs a probability distribution over all classes for each sample. In those cases you can define a threshold for your classification, i.e. given a sample if the probability associated with a class was higher than that threshold, classify it as that class. There are curves pointing out trade-off between different metrics when changing that threshold. One of the most famous curve is ROC curve, which supported by PyCM from version `3.7`. Here we wanted to change the PyCM's `Curve` class into something more general, where you can easily plot each two metrics based on each other. Finding the best threshold for a classification problem usually happens by observing these curves. We also wanted to support this feature to PyCM.
+### Curve Generalization
+There is a class of classification problems that outputs a probability distribution over all classes for each sample. In those cases you can define a threshold for your classification, i.e. given a sample if the probability associated with a class was higher than that threshold, classify it as that class. There are curves pointing out trade-off between different metrics when changing that threshold. One of the most famous curve is ROC curve, which supported by PyCM from version `3.7`. Here we wanted to change the PyCM's `Curve` class into something more general, where you can easily plot each two metrics based on each other.
 
 1. Generalize `Curve` class
 2. Add `P-Curve`
 3. Add `R-Curve`
 4. Add `F1-Curve`
-5. Add support for finding the best threshold
 
 * If you wanted to have a hands-on research experience on machine learning evaluation metrics, let's write a proposal for this idea. We would love to hear more about your ideas.
+
+### Threshold Selection
+When your classification model outputs probability distribution over all possible classes instead of labels you can do the classification by defining a threshold for your classification, i.e. given a sample if the probability associated with a class was higher than that threshold, classify it as that class.
+Finding the best threshold for a classification problem usually deals with a trade-off between metrics. Let's think of a probabilistic model that tell you if you have COVID-19. If you strictly set the threshold high, while you can be more sure about cases that classified as infected, you probably miss some truly infected cases. This trade-off makes it uneasy to find the best threshold for a problem. Here we wanted to propose a best-effort solution for finding the best threshold in PyCM.
+
+* If you wanted to have a hands-on research experience on machine learning and learn more about different threshold suggestion methods, let's try this idea.
 
 ### Comparing Classification Models
 
