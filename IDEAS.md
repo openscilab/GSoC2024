@@ -46,6 +46,9 @@ There is a class of classification problems that outputs a probability distribut
 ### Benchmark Tests
 
 ### Data Distribution Analysis
+When evaluating a classifier, you can infer information about the data distribution. Until now we were agnostic toward sample distribution for our metric extraction. Here, we wanted to first identify ways to understand data distribution from samples. Then, we add information regarding sample distribution to PyCM output and explore for more metrics which utilizes given data distribution.
+
+* This one suits you if you are interested in probability theories and hands-on experiences.
 
 ### PyCM Optimization: Boosting Performance & Speed and Software Structure Enhancement
 Every open-source software project which has been evolved through the time eventually find some sub-optimality in its implementation. Technical debts and poor implementation could open opportunities for software engineers to enhance project's performance and software architecture. The idea here is to start by identifying potential bottlenecks in the codebase and write down your proposal on your solution for them.
