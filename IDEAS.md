@@ -52,6 +52,14 @@ PyCM introduced a method to compare several confusion matrices. You can compare 
 * If you are interested in pure confusion matrix research and also software architecture enhancement, start from here.
 
 ### Benchmark Tests
+Benchmarking PyCM performance over different hardwares and different inputs would be beneficial for our analysis. It would help us find out about bottlenecks and make it easier for us to scale the framework. A non-exhaustive list of analysis we want is listed here. You can think beyond this list and design a complete benchmark testing for PyCM.
+
+1. Testing PyCM performance on different hardwares
+2. Testing PyCM performance on different input sizes
+3. Testing PyCM different API calls
+4. Security tests
+
+* If you are looking for a set of software testing tasks and QA tasks, let's give this idea a try.
 
 ### Data Distribution Analysis
 When evaluating a classifier, you can infer information about the data distribution. Until now we were agnostic toward sample distribution for our metric extraction. Here, we wanted to first identify ways to understand data distribution from samples. Then, we add information regarding sample distribution to PyCM output and explore for more metrics which utilizes given data distribution.
