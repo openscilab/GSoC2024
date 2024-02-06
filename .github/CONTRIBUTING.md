@@ -2,7 +2,7 @@
 
 Thank you for considering contributing to OpenSciLab as part of the Google Summer of Code (GSoC)! OpenSciLab is excited to collaborate with passionate and talented participants who are eager to make meaningful contributions to open-source scientific projects. To ensure a successful and rewarding experience, please follow these contribution guidelines:
 
-## Ready to Start !?
+## Ready to Start?!
 
 ### Project Selection
 Review the list of [OpenSciLab project ideas](https://github.com/openscilab/GSoC2024/blob/main/IDEAS.md). Consider your skills, interests, and the project's goals to find a good match. We tried our best to include projects and ideas from different domains making contribution easier for participants coming from different background.
@@ -31,7 +31,6 @@ Also, Answer following questions within your application
 
 ## Communication
 
-### Communication Channels
 Join the official communication Discord channel. There we have sub-channels for each project
 We encourage you to stay active in these channels and communicate with mentors and other contributors.
 
@@ -43,8 +42,10 @@ We encourage you to stay active in these channels and communicate with mentors a
 
 Provide regular updates on your progress. Reach out for assistance if facing challenges. Be open to receiving feedback on your work. Collaborate with other contributors and engage ins discussions.
 
-## Final Submission
+## Contribution
 
+### Contributing Guideline
+To access detailed information regarding technical and contributing guidelines, please check the dedicated `CONTRIBUTING.md` file located in the repository of each respective project (e.g. [PyCM contribution guideline](https://github.com/sepandhaghighi/pycm/blob/master/.github/CONTRIBUTING.md)).
 ### Final Evaluation
 Submit your project for the final evaluation as per the [GSoC timeline](https://developers.google.com/open-source/gsoc/timeline). Ensure all project deliverables are complete and well-documented. Also, Share your feedback on the GSoC experience with OpenSciLab. Reflect on what you've learned and how you can continue contributing to the community.
 
