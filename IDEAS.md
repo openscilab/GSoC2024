@@ -14,7 +14,7 @@ In classification setting, a dissimilarity matrix quantifies the dissimilarity b
 
 The incidence matrix is a logical matrix showing the relationship between classes of objects. In the classification setting, it can be helpful in cases where two classes are too similar, making it hard for a classifier to classify them. Adding support for this matrix and its metrics could ease the path for researchers to continue their studies.
 
-* If you are interested in software development scaling challenges and also like research metrics in machine learning, this idea could be your best shot.
+* If you are interested in software development scaling challenges and like research metrics in machine learning, this idea could be your best shot. Basic Python programming skills are required. It's preferred to have a background in machine learning especially classification evaluation methods.
 * We categorized this idea as an **Intermediate** one and we expect it to take **90** hours.
 
 #### Mentor
@@ -26,9 +26,9 @@ As time went on, there were situations in which users wanted to import their dat
 1. Support `csv` files as input
 2. Support `.md` format as output
 3. Support `LateX` format as output
-4. HTM format output enhancement
+4. HTML format output enhancement
 
-* If you are interested in system/pipeline design and ready to dig into parsing these formatted structures, let's pick up this idea.
+* If you are interested in system/pipeline design and ready to dig into parsing these formatted structures, let's pick up this idea. Mid-level Python programming experience is required. It's preferred to know about HTML, markdown and Latex file structure.
 * We categorized this idea as an **Easy** one and we expect it to take **175** hours.
 
 #### Mentor
@@ -42,7 +42,7 @@ A class of classification problems outputs a probability distribution over all c
 3. Add `R-Curve`
 4. Add `F1-Curve`
 
-* Let's propose this idea if you want hands-on research experience on machine learning evaluation metrics. We would love to hear more about your ideas.
+* Let's propose this idea if you want hands-on research experience on machine learning evaluation metrics. We would love to hear more about your ideas. Basic Python programming skills are required. It's preferred to have a background in machine learning especially classification evaluation methods.
 * We categorized this idea as an **Intermediate** one and we expect it to take **90** hours.
 
 #### Mentor
@@ -52,7 +52,7 @@ A class of classification problems outputs a probability distribution over all c
 When your classification model outputs probability distribution over all possible classes instead of labels, you can classify by defining a threshold for your classification, i.e., given a sample, if the probability associated with a class was higher than that threshold, classify it as that class.
 Finding the best threshold for a classification problem usually involves a trade-off between metrics. Let's think of a probabilistic model that tells you if you have COVID-19. If you strictly set the threshold high, while you can be more sure about cases classified as infected, you probably miss some truly infected cases. This trade-off makes it uneasy to find the best threshold for a problem. Here we propose a best-effort solution for finding the best threshold in PyCM.
 
-* If you want to have a hands-on research experience on machine learning and learn more about different threshold suggestion methods, let's try this idea.
+* If you want to have a hands-on research experience on machine learning and learn more about different threshold suggestion methods, let's try this idea. Basic Python programming skills are required. Also it is better that you have a research background in machine learning. It may be required to read several papers and find ways for best threshold selection.
 * We categorized this idea as an **Intermediate** one and we expect it to take **175** hours.
 
 #### Mentor
@@ -61,7 +61,7 @@ Finding the best threshold for a classification problem usually involves a trade
 ### Comparing Classification Models
 PyCM introduced a method to compare several confusion matrices. You can compare the results of two classification methods by comparing their confusion matrices sharing a ground truth vector. Earlier implementation of the `Compare` object in Version `2.0` hasn't been updated since then. Here we wanted to enhance the implementation of that object and add new methods for comparing confusion matrices.
 
-* If you are interested in pure confusion matrix research and software architecture enhancement, start here.
+* If you are interested in pure confusion matrix research and software architecture enhancement, start here. Basic Python programming skills are required. It's preferred to have a background in machine learning especially classification evaluation methods.
 * We categorized this idea as an **Intermediate** one and we expect it to take **175** hours.
 
 #### Mentor
@@ -75,7 +75,7 @@ Benchmarking PyCM performance over different hardware and inputs would benefit o
 3. Testing PyCM different API calls
 4. Security tests
 
-* If you are looking for a set of software testing tasks and QA tasks, let's try this idea.
+* If you are looking for a set of software testing tasks and QA tasks, let's try this idea. Also, Basic Python programming skills are required. It's better to have background in software testing and quality assessment.
 * We categorized this idea as an **Easy** one and we expect it to take **175** hours.
 
 #### Mentor
@@ -93,7 +93,7 @@ When evaluating a classifier, you can infer information about the data distribut
 ### PyCM Optimization: Boosting Performance & Speed and Software Structure Enhancement
 Every open-source software project that has evolved through time eventually finds some sub-optimality in its implementation. Technical debts and poor implementation could open opportunities for software engineers to enhance the project's performance and software architecture. The idea here is to start by identifying potential bottlenecks in the codebase and write down your proposal on your solution for them.
 
-* If you are a software developer who wants to challenge yourself by diving into source code and looking for flaws, let's do this.
+* If you are a software developer who wants to challenge yourself by diving into source code and looking for flaws, let's do this. You should be advanced Python developer to catch those bottlenecks and come up with solutions for them.
 * We categorized this idea as an **Hard** one and we expect it to take **175** hours.
 
 #### Mentor
@@ -107,7 +107,7 @@ PyCM has been used vastly by researchers since the start of the project, but it 
 3. Blogging show-cases in which using PyCM is helping with a better understanding of a classification problem
 4. Design a website for online PyCM use-cases
 
-* This is for you if you are interested in human-subject research and user experience design.
+* This is for you if you are interested in human-subject research and user experience design. Web design skills are required. It's better to have research experiences in human-computer interaction domain, too.
 * We categorized this idea as an **Easy** one and we expect it to take **175** hours.
 
 #### Mentor
