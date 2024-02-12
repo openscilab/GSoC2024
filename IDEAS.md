@@ -87,10 +87,6 @@ PyCM has been used vastly by researchers since the start of the project, but it 
     <img src="https://github.com/sepandhaghighi/pyrgg/raw/master/otherfile/logo.png" width="400">
 </div>
 
-#### Mentor(s)
-* [Sadra Sabouri](https://sadrasabouri.github.io/)
-* [Arash Zolanvari](https://alirezazolanvari.github.io/)
-
 In computer science and network analysis, random graphs are frequently employed to simulate and study the structure of networks, such as social networks, communication networks, and the Internet. These generated graphs serve as benchmarks for evaluating algorithms, assessing network resilience, and studying the properties of large-scale networks. In bio-informatics, random graphs are utilized to model biological interactions, enabling the analysis of complex biological networks. PyRGG is a command line interface (CLI) tool for generating random graphs. This tool supports various graph formats, including `DIMACS(.gr)` files. PyRGG is being used in a broad range of graph-based research applications.
 
 ### Add New Graph Generation Model
@@ -102,7 +98,11 @@ There are several random graph generation models. Currently, PyRGG supports two 
 4. Exponential family random graph models
 5. Stochastic block model
 
-* If you want hands-on research experience on random graph generation, this idea is yours.
+* If you want hands-on research experience on random graph generation, this idea is yours. It's better to have a software engineering background. Also, being familiar with graph concepts is preferred.
+* We categorized this idea as a **Medium** one and think it should take **350** hours.
+
+#### Mentor
+* [Sadra Sabouri](https://sadrasabouri.github.io/)
 
 ### Make PyRGG More Accessible for Researchers
 PyRGG is a command-line interface (CLI) application. Although we tried to make the user interface as simple as possible, there is a long way to go. Use cases could range from Python package APIs to graphical interfaces, which means we should have both form out Python package level abstraction and button-textbox view for random graph generation. Plus, integration to existing graph analysis Python libraries must be showcased as a blog post or in documentation. These examples usually work as a boilerplate for researchers when using Python libraries.
@@ -111,4 +111,8 @@ PyRGG is a command-line interface (CLI) application. Although we tried to make t
 2. Generalize the package's functions, making them able to serve as a Python library API
 3. Development of a simple graphical user interface
 
-* If you are looking for documenting, blogging, and user experience design, you should write a proposal regarding this idea.
+* This one covers a lot of expertise. You could have an excellent overview of how open-source Python package development works. You should write a proposal for this if you are looking for blogging, software design, and user experience design. You should have a good understanding of how Python packages work for handling this issue. Also, it's recommended that you have prior experience with graphic user interface development. 
+* We categorized this idea as a **Hard** one and think it should take **350** hours.
+
+#### Mentor
+* [Sadra Sabouri](https://sadrasabouri.github.io/)
